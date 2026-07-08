@@ -26,7 +26,7 @@ import anthropic
 # ============================================================
 
 # 1 日に届ける雑学の件数
-ITEMS_PER_DAY = 3
+ITEMS_PER_DAY = 1
 
 # 使うモデル。コストを下げたいなら "claude-haiku-4-5-20251001" に変えても OK
 MODEL = "claude-sonnet-4-6"
